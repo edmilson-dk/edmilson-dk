@@ -31,7 +31,8 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
   ![Postgresql](https://img.shields.io/badge/-Postgresql-blue?style=flat-square&logo=postgresql)
   ![ReactJS](https://img.shields.io/badge/-ReactJS-black?style=flat-square&logo=react)
-  ![NextJS](https://img.shields.io/badge/-NextJS-black?style=flat-square&logo=vercel )
+  ![NextJS](https://img.shields.io/badge/-NextJS-black?style=flat-square&logo=vercel)
+  ![C](https://img.shields.io/badge/-Clang-blue?style=flat-square&logo=c)
 
 
 <div style="display:inline" align="center">
