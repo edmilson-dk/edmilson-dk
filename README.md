@@ -10,6 +10,13 @@
 
 💬 Always looking for new ideas and expanding my thoughts.
 
+Learning:
+
+- Elixir
+- Rust
+- Micro-services
+- Functional programming
+
 📫 Talk to me!
 
   - [Instagram](https://www.instagram.com/dksecurityofc?r=nametag)
