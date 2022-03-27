@@ -19,10 +19,7 @@ Learning:
 
 📫 Talk to me!
 
-  - [Instagram](https://www.instagram.com/dksecurityofc?r=nametag)
-  - [Twitter](https://twitter.com/DkSecurity?s=09)
   - [Linkedin](https://www.linkedin.com/in/edmilson-jesus-4128711b5)
-  - [Youtube](https://youtube.com/channel/UCbwEh03h1sPpKfXv4dBIchA)
 
 😄 My favorite technologies and what I use:
 
