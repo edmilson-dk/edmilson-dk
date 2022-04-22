@@ -19,6 +19,7 @@ Learning:
 
 📫 Talk to me!
 
+  - [My blog](https://academic-code.vercel.app/)
   - [Linkedin](https://www.linkedin.com/in/edmilson-jesus-4128711b5)
 
 😄 My favorite technologies and what I use:
