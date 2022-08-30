@@ -38,10 +38,3 @@ Learning:
   ![ReactJS](https://img.shields.io/badge/-ReactJS-black?style=flat-square&logo=react)
   ![NextJS](https://img.shields.io/badge/-NextJS-black?style=flat-square&logo=vercel)
   ![C](https://img.shields.io/badge/-Clang-blue?style=flat-square&logo=c)
-
-
-<div style="display:inline" align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=edmilson-dk&show_icons=true&?count_private=true&theme=dracula&include_all_commits=true" height="150" alt="Edmilson github stats" />
-<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edmilson-dk&hide=Makefile&layout=compact" height="150" alt="Edmilson top langs" />
-</div>
