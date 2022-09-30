@@ -13,7 +13,8 @@
 Learning:
 
 - Elixir
-- Rust
+- AWS
+- Serverless
 - Micro-services
 - Functional programming
 
